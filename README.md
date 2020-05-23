@@ -1,6 +1,7 @@
 # Sentiment analysis for financial news
 
 Data is available on [Kaggle](https://www.kaggle.com/ankurzing/sentiment-analysis-for-financial-news).
+
 You can find a Google Colab Notebook on this repo.
 
 ## Motivation
