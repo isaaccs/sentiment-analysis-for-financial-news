@@ -40,6 +40,7 @@ It prints the most commun word for each labels and remove the most commun word i
 * [Wordcloud](https://github.com/amueller/word_cloud)
 * [NLTK](https://www.nltk.org/)
 * [re](https://docs.python.org/3/library/re.html)
+* [collections](https://docs.python.org/2/library/collections.html)
 
 
 ## Help and Support
