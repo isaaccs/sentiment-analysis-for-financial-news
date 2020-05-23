@@ -8,7 +8,9 @@ You can find a Google Colab Notebook on this repo.
 Create tools for Text Analysis and project for Udacity Data Scientist Nanodegree
 
 As a data scientist for an insurance company, I found myself working on text data.
+
 Text is an unstructured data which can provide a lot of information. And doing a statistical analysis on it allows to draw some information.
+
 That's why I decide to create tools for Text Analysis.
 
 ## Communications 
