@@ -17,12 +17,17 @@ That's why I decide to create tools for Text Analysis.
 
 ### Wordcloud
 A Wordcloud function is available by using [Wordcloud's package](https://github.com/amueller/word_cloud)
+
+
 ![wordcloud for negative feelings](images/negative.png)
 
 ### Word Frequencies
 A Word Frequencies function is available.
 It prints the most commun word for each labels and remove the most commun word in some case.
+
 ![most commun word](images/word_frequencies.png)
+
+
 ![label frequencies](images/label_frequencies.png)
 
 ## Dependencies
