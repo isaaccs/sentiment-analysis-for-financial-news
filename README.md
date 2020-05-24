@@ -4,6 +4,14 @@ Data is available on [Kaggle](https://www.kaggle.com/ankurzing/sentiment-analysi
 
 You can find a Google Colab Notebook on this repo.
 
+## Table of contents
+* [Motivation](#Motivation)
+* [Communications](#Communications)
+* [Tools](#Tools)
+* [Technologies](#technologies)
+* [Help and Support](#Help and Support)
+
+
 ## Motivation
 Create tools for Text Analysis and project for Udacity Data Scientist Nanodegree
 
@@ -32,8 +40,11 @@ It prints the most commun word for each labels and remove the most commun word i
 
 
 ![label frequencies](images/label_frequencies.png)
+## Technologies
+### Languages
+Python 3.6.9
 
-## Dependencies
+### Dependencies
 
 
 * [NumPy](https://numpy.org)
