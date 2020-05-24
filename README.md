@@ -1,8 +1,8 @@
 # Sentiment analysis for financial news
 
-Data is available on [Kaggle](https://www.kaggle.com/ankurzing/sentiment-analysis-for-financial-news).
-
-You can find a Google Colab Notebook on this repo.
+Sentiment analysis, also known as opinion mining, refers to the use of natural language processing, text analysis and computational linguistics to identify and extract subjective information in source materials. (Wikipedia) 
+In real life, Financial Market Analysts make predictions on the stock market based on opinions and happenings in the news.
+A simple example  for the financial sector can be explained by the task of assigning positive, negative or neutral sentiment values to the words. For instance, words such as “good“, “benefit“, “positive“, and “growth” are all tagged with positive scores while words such as “risk“, “fall“, “bankruptcy“, and “loss” are tagged with negative scores.
 
 ## Table of contents
 * [Motivation](#Motivation)
@@ -14,7 +14,7 @@ You can find a Google Colab Notebook on this repo.
 
 
 ## Motivation
-Create tools for Text Analysis and project for Udacity Data Scientist Nanodegree
+Create tools for Text Analysis.
 
 As a data scientist for an insurance company, I found myself working on text data.
 
