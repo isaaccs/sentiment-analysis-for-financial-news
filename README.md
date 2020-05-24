@@ -6,7 +6,8 @@ You can find a Google Colab Notebook on this repo.
 
 ## Table of contents
 * [Motivation](#Motivation)
-* [Communications](#Communications)
+* [File Descriptions](#File Descriptions)
+* [Results](#Results)
 * [Tools](#Tools)
 * [Technologies](#technologies)
 * [Contact](#Contact)
@@ -25,6 +26,10 @@ The idea is to use Data Analysis for helps us identify words, or combination of 
 * Are there significant words ?
 * How to use N-grams ?
 
+Identified the most common words allows us to discover useful information, informing conclusions and supporting decision-making.
+But sometimes some common words can be considered as stop words. Indeed, if they are present in each label with similar proportions, it is very likely that they do not provide information.
+
+
 ## File Descriptions
 
 In this repository, you will find :
@@ -32,8 +37,8 @@ In this repository, you will find :
 * [The Data](all-data.csv)
 * [Image Folder](images)
 
-## Communications 
-[Medium post here](https://medium.com/@isaaccohensabban/exploratory-data-analysis-for-natural-language-processing-2d5a98dfd12d?sk=116eb6bc304a3732b216bae7507437ca)
+## Results 
+The main findings of the code can be found at [the post available]](https://medium.com/@isaaccohensabban/exploratory-data-analysis-for-natural-language-processing-2d5a98dfd12d?sk=116eb6bc304a3732b216bae7507437ca)
 
 ## Tools
 
