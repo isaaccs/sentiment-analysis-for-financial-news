@@ -6,7 +6,7 @@ A simple example  for the financial sector can be explained by the task of assig
 
 ## Table of contents
 * [Motivation](#Motivation)
-* [File Descriptions](#File_Descriptions)
+* [File Descriptions](#File-Descriptions)
 * [Results](#Results)
 * [Tools](#Tools)
 * [Technologies](#technologies)
