@@ -9,7 +9,7 @@ You can find a Google Colab Notebook on this repo.
 * [Communications](#Communications)
 * [Tools](#Tools)
 * [Technologies](#technologies)
-* [Help and Support](#Help)
+* [Contact](#Contact)
 
 
 ## Motivation
@@ -19,7 +19,18 @@ As a data scientist for an insurance company, I found myself working on text dat
 
 Text is an unstructured data which can provide a lot of information. And doing a statistical analysis on it allows to draw some information.
 
-That's why I decide to create tools for Text Analysis.
+The idea is to use Data Analysis for helps us identify words, or combination of word for a better understanding of the market.
+
+* What are the most commun words ?
+* Are there significant words ?
+* How to use N-grams ?
+
+## File Descriptions
+
+In this repository, you will find :
+* [One notebook](sentiment_analysis_for_financial_news.ipynb)
+* [The Data](all-data.csv)
+* [Image Folder](images)
 
 ## Communications 
 [Medium post here](https://medium.com/@isaaccohensabban/exploratory-data-analysis-for-natural-language-processing-2d5a98dfd12d?sk=116eb6bc304a3732b216bae7507437ca)
@@ -89,8 +100,7 @@ Project is created with Python 3.6.9.
 * [collections](https://docs.python.org/2/library/collections.html)
 
 
-## Help and Support
 
-### Communication
+## Contact
 
 * Mail: isaaccohensabban_at_gmail_dot_com
