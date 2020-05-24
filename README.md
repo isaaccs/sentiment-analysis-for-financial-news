@@ -28,7 +28,8 @@ That's why I decide to create tools for Text Analysis.
 
 ### Wordcloud
 A Wordcloud function is available by using [Wordcloud's package](https://github.com/amueller/word_cloud)
-`def plot_word_cloud(data,text='text',label=None,save=True):
+`
+def plot_word_cloud(data,text='text',label=None,save=True):
   """ Inputs : Dataset, text colums,labels column
   Output : Word cloud for all the corpus and for each label"""
   word_cloud_data = " ".join([post for post in data[text] ])
@@ -48,14 +49,16 @@ A Wordcloud function is available by using [Wordcloud's package](https://github.
           plt.figure(i)
           plt.imshow(word_cloud_data)
           plt.title('{}'.format(labels[i]))
-          plt.axis("off")`
+          plt.axis("off")
+          `
 
 ![wordcloud for negative feelings](images/negative.png)
 
 ### Word Frequencies
 A Word Frequencies function is available.
 It prints the most commun word for each labels and remove the most commun word in some case.
-`def word_frequencies(data,word):
+`
+def word_frequencies(data,word):
 
   c_unique = Counter()
   for ind in data.index:
@@ -63,7 +66,8 @@ It prints the most commun word for each labels and remove the most commun word i
 
   print('First 20 common words:\n')
   for word in c_unique.most_common(20):
-      print(word[0],'-->', 'appeared in',word[1],'documents out of {} documents i.e.'.format(len(data)),np.round(100*word[1]/len(data),2),'%')`
+      print(word[0],'-->', 'appeared in',word[1],'documents out of {} documents i.e.'.format(len(data)),np.round(100*word[1]/len(data),2),'%')
+      `
       
 ![most commun word](images/word_frequencies.png)
 
