@@ -44,7 +44,7 @@ The main findings of the code can be found at [the post available]](https://medi
 
 ### Wordcloud
 A Wordcloud function is available by using [Wordcloud's package](https://github.com/amueller/word_cloud)
-`
+```python
 def plot_word_cloud(data,text='text',label=None,save=True):
   """ Inputs : Dataset, text colums,labels column
   Output : Word cloud for all the corpus and for each label"""
@@ -66,14 +66,14 @@ def plot_word_cloud(data,text='text',label=None,save=True):
           plt.imshow(word_cloud_data)
           plt.title('{}'.format(labels[i]))
           plt.axis("off")
-          `
+          ```
 
 ![wordcloud for negative feelings](images/negative.png)
 
 ### Word Frequencies
 A Word Frequencies function is available.
 It prints the most commun word for each labels and remove the most commun word in some case.
-`
+```python
 def word_frequencies(data,word):
 
   c_unique = Counter()
