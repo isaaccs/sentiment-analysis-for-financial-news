@@ -66,7 +66,8 @@ def plot_word_cloud(data,text='text',label=None,save=True):
           plt.imshow(word_cloud_data)
           plt.title('{}'.format(labels[i]))
           plt.axis("off")
-          ```
+ ```
+          
 
 ![wordcloud for negative feelings](images/negative.png)
 
@@ -83,7 +84,7 @@ def word_frequencies(data,word):
   print('First 20 common words:\n')
   for word in c_unique.most_common(20):
       print(word[0],'-->', 'appeared in',word[1],'documents out of {} documents i.e.'.format(len(data)),np.round(100*word[1]/len(data),2),'%')
-      `
+```
       
 ![most commun word](images/word_frequencies.png)
 
