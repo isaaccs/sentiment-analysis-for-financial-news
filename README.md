@@ -9,7 +9,7 @@ You can find a Google Colab Notebook on this repo.
 * [Communications](#Communications)
 * [Tools](#Tools)
 * [Technologies](#technologies)
-* [Help](#Help)
+* [Help and Support](#Help)
 
 
 ## Motivation
