@@ -38,7 +38,7 @@ In this repository, you will find :
 * [Image Folder](images)
 
 ## Results 
-The main findings of the code can be found at [the post available]](https://medium.com/@isaaccohensabban/exploratory-data-analysis-for-natural-language-processing-2d5a98dfd12d?sk=116eb6bc304a3732b216bae7507437ca)
+The main findings of the code can be found at [the post available](https://medium.com/@isaaccohensabban/exploratory-data-analysis-for-natural-language-processing-2d5a98dfd12d?sk=116eb6bc304a3732b216bae7507437ca)
 
 ## Tools
 
